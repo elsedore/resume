@@ -1,2 +1,2 @@
-# resume
-You'll find by role the corresponding resume
+# Resume
+You'll find the corresponding resume.
